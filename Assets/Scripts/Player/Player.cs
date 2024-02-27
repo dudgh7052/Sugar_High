@@ -42,7 +42,9 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        /*
         m_index = (m_index + 1) % m_spriteLibraryAssets.Length;
         m_spriteLibrary.spriteLibraryAsset = m_spriteLibraryAssets[m_index];
+        */
     }
 }
