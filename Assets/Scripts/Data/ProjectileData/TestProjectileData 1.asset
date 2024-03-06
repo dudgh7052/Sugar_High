@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82e36a675b3ef0f4e8a2405373e489e8, type: 3}
   m_Name: TestProjectileData 1
   m_EditorClassIdentifier: 
-  m_projectilePrefab: {fileID: 2592423033586426320, guid: 18c13ec82b2c60043afcf14864db3bb4, type: 3}
-  m_coolTime: 0.5
+  m_projectilePrefab: {fileID: 4723464663059145736, guid: 18c13ec82b2c60043afcf14864db3bb4, type: 3}
+  m_coolTime: 0.1
   m_speed: 5
   m_damage: 0
   m_disableTime: 2

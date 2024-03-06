@@ -6,7 +6,7 @@ using UnityEngine;
 public class ProjectileData : ScriptableObject
 {
     [Header("Projectile Spawner Info")]
-    public Transform m_projectilePrefab;
+    public GameObject m_projectilePrefab;
     public float m_coolTime;
 
     [Header("Projectile Info")]
